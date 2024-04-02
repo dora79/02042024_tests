@@ -9,6 +9,6 @@
 #4 Krastiņš Ričards
 
 #5 Lielanse Dora Līva
-
+print("Labdien skolotāj")
 #6 Stramkale Emīlija
 
