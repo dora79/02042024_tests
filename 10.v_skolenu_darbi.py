@@ -9,6 +9,6 @@ print("Labdien, skolotāja!") #Sveicienu pievienoja Ernests Burmistris (Mr-Burme
 #4 Krastiņš Ričards
 
 #5 Lielanse Dora Līva
-
+print(cos(radians(60)+fmod(15,2)))
 #6 Stramkale Emīlija
 
